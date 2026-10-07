@@ -1,0 +1,20 @@
+=== vecteezy_man-playing-acoustic-guitar-on-green-screen-background_49405001.mp4 ===
+  playing guitar                 0.476
+  strumming guitar               0.157
+  tapping guitar                 0.024
+  singing                        0.008
+  playing bass guitar            0.004
+
+=== vecteezy_silhouette-running-woman-fitness-at-sunrise-marathon-runner_77337586.mp4 ===
+  jogging                        0.807
+  jumpstyle dancing              0.019
+  yoga                           0.007
+  contact juggling               0.005
+  dancing ballet                 0.005
+
+=== vecteezy_silhouetted-couple-dancing-together-in-front-of-a-white_72006679.mp4 ===
+  robot dancing                  0.291
+  tai chi                        0.067
+  tango dancing                  0.037
+  krumping                       0.027
+  dancing ballet                 0.019
